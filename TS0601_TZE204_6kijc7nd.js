@@ -19,7 +19,7 @@ const definition = {
             manufacturerName: '_TZE204_6kijc7nd',
         },
     ],
-    model: 'Tervix ProLine Zigbee',
+    model: 'Pro Line ZigBee Thermostat',
     vendor: 'Tervix',
     description: 'Thermostat for underfloor heating',
     fromZigbee: [tuya.fz.datapoints, fz.ignore_tuya_set_time],
